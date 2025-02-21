@@ -1,1 +1,324 @@
-{"sections":{"slideshow_LeJEXR":{"type":"slideshow","blocks":{"slide_3Qw3QK":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/bedding-natural-5-middle.jpg","heading":"Файно спати без трусів","heading_size":"h1","subheading":"Відкрийте для себе ідеальне поєднання підтримки та комфорту в наших матрацах","button_label":"Перейти до продуктів","link":"shopify:\/\/collections\/all","button_style_secondary":false,"box_align":"bottom-left","show_text_box":true,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}}},"block_order":["slide_3Qw3QK"],"settings":{"layout":"full_bleed","slide_height":"large","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"featured_collection":{"type":"featured-collection","custom_css":[],"settings":{"title":"Продукція","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":12,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"portrait","image_shape":"default","show_secondary_image":true,"show_vendor":true,"show_rating":true,"quick_add":"none","columns_mobile":"1","swipe_on_mobile":false,"padding_top":52,"padding_bottom":16}},"rich_text_MjmDA6":{"type":"rich-text","blocks":{"heading_RkLqyb":{"type":"heading","settings":{"heading":"Наші колекції","heading_size":"h1"}},"text_xV7qk6":{"type":"text","settings":{"text":"<h3>В асорименті нашої компанії ви знайдете як пружинні, так і безпружинні ортопедичні матраци різних розмірів та на будь-який бюджет. Також ми пропонуємо великий вибір тонких мініматраців для покращення якості існуючого спального місця.<\/h3>"}}},"block_order":["heading_RkLqyb","text_xV7qk6"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"collection_list_PG7cgb":{"type":"collection-list","blocks":{"featured_collection_fzDDmQ":{"type":"featured_collection","settings":{"collection":"evolution"}},"featured_collection_7PNzTR":{"type":"featured_collection","settings":{"collection":"belsonno"}},"featured_collection_tcQmGL":{"type":"featured_collection","settings":{"collection":"sleep-fly-organic"}},"featured_collection_4bQzE9":{"type":"featured_collection","settings":{"collection":"sleep-fly-mini"}},"featured_collection_tacgem":{"type":"featured_collection","settings":{"collection":"scandi"}}},"block_order":["featured_collection_fzDDmQ","featured_collection_7PNzTR","featured_collection_tcQmGL","featured_collection_4bQzE9","featured_collection_tacgem"],"settings":{"title":"","heading_size":"h1","image_ratio":"adapt","columns_desktop":6,"color_scheme":"","show_view_all":true,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":20}},"rich_text_AYFkiR":{"type":"rich-text","blocks":{"heading_RQQbgA":{"type":"heading","settings":{"heading":"Наш завод","heading_size":"h1"}},"text_T8GeiX":{"type":"text","settings":{"text":"<h3>Завод EMM Юкрейн - одне з найбільших підприємств нашої країни з виробництва ортопедичних матраців. Кожного дня ми виробляємо продукцію для здорового сна українців.PreviousNext<\/h3>"}}},"block_order":["heading_RQQbgA","text_T8GeiX"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"slideshow_QAdFge":{"type":"slideshow","blocks":{"slide_h9xKVW":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/12.1170x780.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-1","text_alignment_mobile":"center"}},"slide_nEibnP":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/13.1170x780.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_CW7iFQ":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/15.1170x780_1.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_DnQfRz":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/16.1170x780.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-1","text_alignment_mobile":"center"}}},"block_order":["slide_h9xKVW","slide_nEibnP","slide_CW7iFQ","slide_DnQfRz"],"settings":{"layout":"grid","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"rich_text_MTeLtk":{"type":"rich-text","blocks":{"heading_TChPCC":{"type":"heading","settings":{"heading":"ЕММ Юкрейн – провідний виробник матраців в Україні","heading_size":"h1"}},"text_4BqwjB":{"type":"text","settings":{"text":"<h3>Наша компанія понад 18 років виготовляє ортопедичні матраци та аксесуари для сну.<\/h3><h3>Кожен день ми працюємо над удосконаленням якості продукції та розширенням дилерської мережі, щоб бути ближче до своїх покупців.<\/h3>"}}},"block_order":["heading_TChPCC","text_4BqwjB"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":68,"padding_bottom":52}}},"order":["slideshow_LeJEXR","featured_collection","rich_text_MjmDA6","collection_list_PG7cgb","rich_text_AYFkiR","slideshow_QAdFge","rich_text_MTeLtk"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_LeJEXR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_3Qw3QK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/bedding-natural-5-middle.jpg",
+            "heading": "Файно спати без трусів",
+            "heading_size": "h1",
+            "subheading": "Відкрийте для себе ідеальне поєднання підтримки та комфорту в наших матрацах",
+            "button_label": "Перейти до продуктів",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3Qw3QK"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [],
+      "settings": {
+        "title": "Продукція",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_MjmDA6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RkLqyb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Наші колекції",
+            "heading_size": "h1"
+          }
+        },
+        "text_xV7qk6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>В асорименті нашої компанії ви знайдете як пружинні, так і безпружинні ортопедичні матраци різних розмірів та на будь-який бюджет. Також ми пропонуємо великий вибір тонких мініматраців для покращення якості існуючого спального місця.</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RkLqyb",
+        "text_xV7qk6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_PG7cgb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_fzDDmQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "evolution"
+          }
+        },
+        "featured_collection_7PNzTR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belsonno"
+          }
+        },
+        "featured_collection_tcQmGL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sleep-fly-organic"
+          }
+        },
+        "featured_collection_4bQzE9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sleep-fly-mini"
+          }
+        },
+        "featured_collection_tacgem": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scandi"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_fzDDmQ",
+        "featured_collection_7PNzTR",
+        "featured_collection_tcQmGL",
+        "featured_collection_4bQzE9",
+        "featured_collection_tacgem"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_AYFkiR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RQQbgA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Наш завод",
+            "heading_size": "h1"
+          }
+        },
+        "text_T8GeiX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Завод EMM Юкрейн - одне з найбільших підприємств нашої країни з виробництва ортопедичних матраців. Кожного дня ми виробляємо продукцію для здорового сна українців.PreviousNext</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RQQbgA",
+        "text_T8GeiX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_QAdFge": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_h9xKVW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/12.1170x780.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_nEibnP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/13.1170x780.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_CW7iFQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/15.1170x780_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_DnQfRz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/16.1170x780.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_h9xKVW",
+        "slide_nEibnP",
+        "slide_CW7iFQ",
+        "slide_DnQfRz"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_MTeLtk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TChPCC": {
+          "type": "heading",
+          "settings": {
+            "heading": "ЕММ Юкрейн – провідний виробник матраців в Україні",
+            "heading_size": "h1"
+          }
+        },
+        "text_4BqwjB": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Наша компанія понад 18 років виготовляє ортопедичні матраци та аксесуари для сну.</h3><h3>Кожен день ми працюємо над удосконаленням якості продукції та розширенням дилерської мережі, щоб бути ближче до своїх покупців.</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TChPCC",
+        "text_4BqwjB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "slideshow_LeJEXR",
+    "featured_collection",
+    "rich_text_MjmDA6",
+    "collection_list_PG7cgb",
+    "rich_text_AYFkiR",
+    "slideshow_QAdFge",
+    "rich_text_MTeLtk"
+  ]
+}
