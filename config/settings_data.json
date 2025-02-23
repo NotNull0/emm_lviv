@@ -232,6 +232,25 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "7079518687644006178": {
+        "type": "shopify://apps/checkout-blocks/blocks/app-embed/b0024ca5-9de8-4bf0-a92f-cd0783877ae2",
+        "disabled": false,
+        "settings": {
+          "utm_id": true,
+          "utm_source": true,
+          "utm_medium": true,
+          "utm_campaign": true,
+          "utm_term": true,
+          "ref": true
+        }
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -499,7 +518,7 @@
       "@font-face {font-family: \"Aeroport\"; src: url(\"https://cdn.shopify.com/s/files/1/0659/9681/6534/files/Aeroport_a1f3fd59-e2a7-419b-b75a-a4a796733fbf.woff2?v=1740170773\") format(\"woff2\"); /* Added semicolon here */ font-weight: 400; font-style: normal;}",
       "@font-face {font-family: \"Aeroport\"; src: url(\"https://cdn.shopify.com/s/files/1/0659/9681/6534/files/Aeroport-Medium.woff2?v=1740170773\") format(\"woff2\"); /* Added semicolon here */ font-weight: 500; font-style: normal;}",
       "@font-face {font-family: \"Aeroport\"; src: url(\"https://cdn.shopify.com/s/files/1/0659/9681/6534/files/Aeroport-Bold.woff2?v=1740170773\") format(\"woff2\"); /* Added semicolon here */ font-weight: 500; font-style: normal;}",
-      "body * {font-family: \"Aeroport\" !important;letter-spacing: 0.5px;}"
+      "body * {font-family: \"Aeroport\" !important; letter-spacing: 0.5px;}"
     ]
   }
 }
