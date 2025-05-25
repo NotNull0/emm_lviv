@@ -163,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "Характеристики",
-            "text": "<ul><li>Метод кріплення: {{ product.metafields.custom._fasteningMethod.value }}</li><li>Наповнювач: {{ product.metafields.custom._filler.value }}</li><li>Тканина:</li></ul>{{ product.metafields.custom._mat | metafield_tag }}<ul><li>Ступінь захисту: {{ product.metafields.custom._protectionLevel.value }}</li></ul>",
+            "text": "<ul><li>Метод кріплення: {{ product.metafields.custom._fasteningMethod.value }}</li><li>Наповнювач: {{ product.metafields.custom._filler.value }}</li><li>Тканина: </li></ul>{{ product.metafields.custom._mat | metafield_tag }}<ul><li>Ступінь захисту: {{ product.metafields.custom._protectionLevel.value }}</li></ul>",
             "link_label": "",
             "link": ""
           }
