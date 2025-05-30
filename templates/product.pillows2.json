@@ -163,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "Характеристики",
-            "text": "<ul><li>Навантаження {{ product.metafields.custom._load.value }}кг</li><li>Висота: {{ product.metafields.custom._Height.value }}см</li><li>Тканина чохла: {{ product.metafields.custom._coverOfFabric.value }}</li><li>Наповнювач: {{ product.metafields.custom._filler.value }}</li><li>Жорсткість: {{ product.metafields.custom._Rigidity.value }}</li><li>Тип чохла: {{ product.metafields.custom._typeOfCase.value }}</li><li>Тип матрацу: {{ product.metafields.custom._typeOfMatra.value }}</li><li>Гарантія: {{ product.metafields.custom._guarantee.value }}</li></ul>",
+            "text": "<ul><li>Висота: {{ product.metafields.custom._Height.value }}см</li><li>Тканина чохла: {{ product.metafields.custom._coverOfFabric.value }}</li><li>Наповнювач: {{ product.metafields.custom._filler.value }}</li><li>Жорсткість: {{ product.metafields.custom._Rigidity.value }}</li><li>Тип чохла: {{ product.metafields.custom._typeOfCase.value }}</li></ul>",
             "link_label": "",
             "link": ""
           }
