@@ -63,6 +63,10 @@
             "image_ratio": "square",
             "enable_quick_add": false
           }
+        },
+        "judge_me_reviews_preview_badge_D4TQ7e": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -73,7 +77,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "complementary_zRfXJX"
+        "complementary_zRfXJX",
+        "judge_me_reviews_preview_badge_D4TQ7e"
       ],
       "settings": {
         "enable_sticky_info": true,
