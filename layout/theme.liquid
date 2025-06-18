@@ -6,9 +6,13 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <meta property="og:title" content="{{ page_title }}" />
-    <meta property="og:description" content="ЖОПВЫПВЫОПВОПВЫ" />
     <meta property="og:url" content="{{ canonical_url }}" />
     <meta property="og:type" content="website" />
+
+    {{ shop.meta_description }}
+    <meta name="description" content="{{ shop.meta_description }}" />
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    
     <link rel="canonical" href="{{ canonical_url }}">
 
     {%- if settings.favicon != blank -%}
