@@ -543,7 +543,8 @@
         "contact_method_title": "Контакт",
         "email_or_phone_label": "Номер телефону",
         "postal_code_label": "Поштовий індекс",
-        "optional_postal_code_label": "Поштовий індекс"
+        "optional_postal_code_label": "Поштовий індекс",
+        "company_label": "Відділення нової пошти (не обов'язково)"
       }
     }
   },
